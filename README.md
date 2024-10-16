@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm UJJWAL SINHA</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal-sinha&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal-sinha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwal-sinha" alt="ujjwal-sinha" /></a> </p>
-
 - 🔭 I’m currently working on **NPM CHATBOT**
 
 - 🌱 I’m currently learning **TURBOREPOS/ADVANCE BACKEND**
@@ -12,8 +8,6 @@
 - 💬 Ask me about **REACT, NEXTJS ,DOCKER , TYPESCRIPT**
 
 - 📫 How to reach me **ujjwalsinha418@gmail.com**
-
-- ⚡ Fun fact **TEA LOVER**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
