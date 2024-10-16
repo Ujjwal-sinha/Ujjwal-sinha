@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **NPM CHATBOT**
 
-- 🌱 I’m currently learning **TURBOREPOS/ADVANCE BACKEND**
+- 🌱 I’m currently learning **TURBOREPOS/ADVANCE BACKEND COMMUNICATION**
 
 - 💬 Ask me about **REACT, NEXTJS ,DOCKER , TYPESCRIPT**
 
