@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal-sinha&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal-sinha" /> </p>
 
-- 🔭 I’m currently working on **NPM CHATBOT**
+- 🔭 I’m currently working on **NPM CHATBOT AND ALUMNICONNECTAPP😇**
 
 - 🌱 I’m currently learning **TURBOREPOS/ADVANCE BACKEND COMMUNICATION**
 
