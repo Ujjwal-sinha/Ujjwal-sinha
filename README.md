@@ -27,4 +27,4 @@
 <a href="https://instagram.com/sinha_ujjwal_0104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sinha_ujjwal_0104" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwal-sinha&show_icons=true&locale=en&layout=compact" alt="ujjwal-sinha" /></p>
+
