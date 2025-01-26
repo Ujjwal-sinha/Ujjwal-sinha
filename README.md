@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **NPM CHATBOT AND ALUMNICONNECTAPP😇**
 
-- 🌱 I’m currently learning **TURBOREPOS/ADVANCE BACKEND COMMUNICATION**
+- 🌱 I’m currently learning **TURBOREPOS/ADVANCE BACKEND COMMUNICATION AND GENERATIVE AI **
 
 - 💬 Ask me about **REACT, NEXTJS ,DOCKER , TYPESCRIPT**
 
