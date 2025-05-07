@@ -12,8 +12,10 @@
 - 📫 How to reach me **ujjwalsinha418@gmail.com**
 
 - 🌱 I’m currently exploring **BLOCKCHAIN**
-
-- 🔭 I have won **ICP CREWSPHERE BLOCKCHAIN HACKATHON AND ICP HACKERHOUSE 2024**
+  
+- 🌱 I have Won **Eth Canal Hackathon 2025 (International)**
+  
+- 🔭 I have Won **ICP CREWSPHERE BLOCKCHAIN HACKATHON AND ICP HACKERHOUSE 2024**
   
   
 
