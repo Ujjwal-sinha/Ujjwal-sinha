@@ -14,6 +14,8 @@
 - 🌱 I’m currently exploring **BLOCKCHAIN**
   
 - 🌱 I have Won **Eth Canal Hackathon 2025 (International)**
+
+- 🌱 I have Won **XDC RWAI GLOBAL HACKATHON 2025**
   
 - 🔭 I have Won **ICP CREWSPHERE BLOCKCHAIN HACKATHON AND ICP HACKERHOUSE 2024**
   
