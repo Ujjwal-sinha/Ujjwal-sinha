@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm UJJWAL SINHA</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **TURBOREPOS/ADVANCE BACKEND COMMUNICATION AND GENERATIVE AI **
+- 🌱 I’m currently learning **TURBOREPOS/ADVANCE BACKEND COMMUNICATION AND GENERATIVE AI**
 
 - 💬 Ask me about **REACT, NEXTJS ,DOCKER , TYPESCRIPT**
 
