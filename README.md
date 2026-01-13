@@ -18,7 +18,9 @@
 - 🌱 **PATENT TWO PROJECTS(AI-POWERED MULTILINGUAL NEWS SUMMARIZER & AI- BASED CALORIE TRACKER) IN THE PATENT OFFICE JOURNAL 2025**
 
 -  🌱 **REGISTER THE PROJECT CALOTRACK UNDER COPYRIGHT ACT INDIA 2024**
-
+  
+-  🌱 **Conference Research Paper — An Explainable Multi-Agent Pipeline for Thyroid Ultrasound Analysis Accepted at the 2nd International Conference on Hybrid Intelligence: Theories and Applications (HITA 2025)**
+  
 - 🌱 **WON THE SHINING STAR AWARD  2ND YEAR CSE  & 3RD YEAR CSE**
 
 - 🌱 I have Won **INTEGRATE CIVIC AUTH GLOBAL HACKATHON 2025**
