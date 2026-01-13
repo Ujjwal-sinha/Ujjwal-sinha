@@ -19,7 +19,7 @@
 
 -  🌱 **REGISTER THE PROJECT CALOTRACK UNDER COPYRIGHT ACT INDIA 2024**
   
--  🌱 **Conference Research Paper — An Explainable Multi-Agent Pipeline for Thyroid Ultrasound Analysis Accepted at the 2nd International Conference on Hybrid Intelligence: Theories and         Applications (HITA 2025)**
+-  🌱 **CONFERENCE RESEARCH PAPER — AN EXPLAINABLE MULTI-AGENT PIPELINE FOR THYROID ULTRASOUND ANALYSIS ACCEPTED AT THE 2ND INTERNATIONAL CONFERENCE ON HYBRID INTELLIGENCE: THEORIES AND         APPLICATIONS (HITA 2025)**
   
 - 🌱 **WON THE SHINING STAR AWARD  2ND YEAR CSE  & 3RD YEAR CSE**
 
